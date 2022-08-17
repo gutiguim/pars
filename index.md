@@ -1,12 +1,3 @@
-Normal Text
-
 <p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
+  ![image](https://user-images.githubusercontent.com/26974228/185194172-005a00a3-3256-4336-8949-b67f4ef0deef.png)
 </p>
-
-Normal text
